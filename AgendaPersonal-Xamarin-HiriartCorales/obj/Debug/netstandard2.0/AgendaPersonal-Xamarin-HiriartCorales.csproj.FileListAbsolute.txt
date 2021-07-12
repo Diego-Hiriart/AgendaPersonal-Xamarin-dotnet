@@ -1,0 +1,14 @@
+C:\Code UDLA\Programacion 4\AgendaPersonal-Xamarin-dotnet\AgendaPersonal-Xamarin-HiriartCorales\AgendaPersonal-Xamarin-HiriartCorales\bin\Debug\netstandard2.0\AgendaPersonal-Xamarin-HiriartCorales.deps.json
+C:\Code UDLA\Programacion 4\AgendaPersonal-Xamarin-dotnet\AgendaPersonal-Xamarin-HiriartCorales\AgendaPersonal-Xamarin-HiriartCorales\bin\Debug\netstandard2.0\AgendaPersonal-Xamarin-HiriartCorales.dll
+C:\Code UDLA\Programacion 4\AgendaPersonal-Xamarin-dotnet\AgendaPersonal-Xamarin-HiriartCorales\AgendaPersonal-Xamarin-HiriartCorales\bin\Debug\netstandard2.0\ref\AgendaPersonal-Xamarin-HiriartCorales.dll
+C:\Code UDLA\Programacion 4\AgendaPersonal-Xamarin-dotnet\AgendaPersonal-Xamarin-HiriartCorales\AgendaPersonal-Xamarin-HiriartCorales\bin\Debug\netstandard2.0\AgendaPersonal-Xamarin-HiriartCorales.pdb
+C:\Code UDLA\Programacion 4\AgendaPersonal-Xamarin-dotnet\AgendaPersonal-Xamarin-HiriartCorales\AgendaPersonal-Xamarin-HiriartCorales\obj\Debug\netstandard2.0\AgendaPersonal-Xamarin-HiriartCorales.csproj.AssemblyReference.cache
+C:\Code UDLA\Programacion 4\AgendaPersonal-Xamarin-dotnet\AgendaPersonal-Xamarin-HiriartCorales\AgendaPersonal-Xamarin-HiriartCorales\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\Code UDLA\Programacion 4\AgendaPersonal-Xamarin-dotnet\AgendaPersonal-Xamarin-HiriartCorales\AgendaPersonal-Xamarin-HiriartCorales\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+C:\Code UDLA\Programacion 4\AgendaPersonal-Xamarin-dotnet\AgendaPersonal-Xamarin-HiriartCorales\AgendaPersonal-Xamarin-HiriartCorales\obj\Debug\netstandard2.0\AgendaPersonal-Xamarin-HiriartCorales.AssemblyInfoInputs.cache
+C:\Code UDLA\Programacion 4\AgendaPersonal-Xamarin-dotnet\AgendaPersonal-Xamarin-HiriartCorales\AgendaPersonal-Xamarin-HiriartCorales\obj\Debug\netstandard2.0\AgendaPersonal-Xamarin-HiriartCorales.AssemblyInfo.cs
+C:\Code UDLA\Programacion 4\AgendaPersonal-Xamarin-dotnet\AgendaPersonal-Xamarin-HiriartCorales\AgendaPersonal-Xamarin-HiriartCorales\obj\Debug\netstandard2.0\AgendaPersonal-Xamarin-HiriartCorales.csproj.CoreCompileInputs.cache
+C:\Code UDLA\Programacion 4\AgendaPersonal-Xamarin-dotnet\AgendaPersonal-Xamarin-HiriartCorales\AgendaPersonal-Xamarin-HiriartCorales\obj\Debug\netstandard2.0\XamlC.stamp
+C:\Code UDLA\Programacion 4\AgendaPersonal-Xamarin-dotnet\AgendaPersonal-Xamarin-HiriartCorales\AgendaPersonal-Xamarin-HiriartCorales\obj\Debug\netstandard2.0\AgendaPersonal-Xamarin-HiriartCorales.dll
+C:\Code UDLA\Programacion 4\AgendaPersonal-Xamarin-dotnet\AgendaPersonal-Xamarin-HiriartCorales\AgendaPersonal-Xamarin-HiriartCorales\obj\Debug\netstandard2.0\ref\AgendaPersonal-Xamarin-HiriartCorales.dll
+C:\Code UDLA\Programacion 4\AgendaPersonal-Xamarin-dotnet\AgendaPersonal-Xamarin-HiriartCorales\AgendaPersonal-Xamarin-HiriartCorales\obj\Debug\netstandard2.0\AgendaPersonal-Xamarin-HiriartCorales.pdb

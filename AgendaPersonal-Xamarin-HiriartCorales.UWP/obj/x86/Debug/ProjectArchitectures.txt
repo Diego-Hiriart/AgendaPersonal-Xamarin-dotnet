@@ -1,0 +1,1 @@
+C:\Code UDLA\Programacion 4\AgendaPersonal-Xamarin-dotnet\AgendaPersonal-Xamarin-HiriartCorales\AgendaPersonal-Xamarin-HiriartCorales.UWP\AgendaPersonal-Xamarin-HiriartCorales.UWP.csproj;x86
