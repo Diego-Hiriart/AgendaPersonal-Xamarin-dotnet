@@ -1,0 +1,3 @@
+C:\Code UDLA\Programacion 4\AgendaPersonal-Xamarin-dotnet\AgendaPersonal-Xamarin-HiriartCorales.Android\obj\Debug\90\MonoAndroid,Version=v9.0.AssemblyAttributes.cs
+C:\Code UDLA\Programacion 4\AgendaPersonal-Xamarin-dotnet\AgendaPersonal-Xamarin-HiriartCorales.Android\obj\Debug\90\build.props
+C:\Code UDLA\Programacion 4\AgendaPersonal-Xamarin-dotnet\AgendaPersonal-Xamarin-HiriartCorales.Android\obj\Debug\90\adb.props

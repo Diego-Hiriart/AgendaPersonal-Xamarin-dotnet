@@ -7,6 +7,8 @@ namespace AgendaPersonal_Xamarin_HiriartCorales
 {
     public partial class App : Application
     {
+        public static string ConnectionString = "https://275a3114be06.ngrok.io/";//ngrok http https://localhost:44366/ -host-header="localhost:44366"
+
         public App()
         {
             InitializeComponent();

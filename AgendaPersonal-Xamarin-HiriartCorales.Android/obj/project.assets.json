@@ -1,7 +1,7 @@
 {
   "version": 3,
   "targets": {
-    "MonoAndroid,Version=v10.0": {
+    "MonoAndroid,Version=v11.0": {
       "Newtonsoft.Json/13.0.1": {
         "type": "package",
         "compile": {
@@ -2321,7 +2321,7 @@
     }
   },
   "projectFileDependencyGroups": {
-    "MonoAndroid,Version=v10.0": [
+    "MonoAndroid,Version=v11.0": [
       "AgendaPersonal-Xamarin-HiriartCorales >= 1.0.0",
       "Newtonsoft.Json >= 13.0.1",
       "Xamarin.Essentials >= 1.7.0",
@@ -2354,14 +2354,14 @@
         "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
       ],
       "originalTargetFrameworks": [
-        "monoandroid10.0"
+        "monoandroid11.0"
       ],
       "sources": {
         "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
         "https://api.nuget.org/v3/index.json": {}
       },
       "frameworks": {
-        "monoandroid10.0": {
+        "monoandroid11.0": {
           "projectReferences": {
             "C:\\Code UDLA\\Programacion 4\\AgendaPersonal-Xamarin-dotnet\\AgendaPersonal-Xamarin-HiriartCorales\\AgendaPersonal-Xamarin-HiriartCorales.csproj": {
               "projectPath": "C:\\Code UDLA\\Programacion 4\\AgendaPersonal-Xamarin-dotnet\\AgendaPersonal-Xamarin-HiriartCorales\\AgendaPersonal-Xamarin-HiriartCorales.csproj"
@@ -2371,7 +2371,7 @@
       }
     },
     "frameworks": {
-      "monoandroid10.0": {
+      "monoandroid11.0": {
         "dependencies": {
           "Newtonsoft.Json": {
             "target": "Package",
