@@ -1,14 +1,15 @@
 {
   "version": 2,
-  "dgSpecHash": "IMGKoaOIlI7/NC1/aY4mctHiSS7ckYlkAECmfIKKrcRM52A4SZ2UD5FnIRpShL4n9VXY1dQt3kqV2YXIRVQ+Rg==",
+  "dgSpecHash": "ZRi/XYVGjQvD7yOeWqBYsJ+BxjQ/e+MPIpUNcnKPIymyHR566tcuhITymlyod+42jm4Jpj8AhZXpAlVtnuNe2w==",
   "success": true,
-  "projectFilePath": "C:\\Code UDLA\\Programacion 4\\AgendaPersonal-Xamarin-dotnet\\AgendaPersonal-Xamarin-HiriartCorales\\AgendaPersonal-Xamarin-HiriartCorales\\AgendaPersonal-Xamarin-HiriartCorales.csproj",
+  "projectFilePath": "C:\\Code UDLA\\Programacion 4\\AgendaPersonal-Xamarin-dotnet\\AgendaPersonal-Xamarin-HiriartCorales\\AgendaPersonal-Xamarin-HiriartCorales.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\diego\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
     "C:\\Users\\diego\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512",
+    "C:\\Users\\diego\\.nuget\\packages\\newtonsoft.json\\13.0.1\\newtonsoft.json.13.0.1.nupkg.sha512",
     "C:\\Users\\diego\\.nuget\\packages\\system.numerics.vectors\\4.5.0\\system.numerics.vectors.4.5.0.nupkg.sha512",
-    "C:\\Program Files (x86)\\Microsoft\\Xamarin\\NuGet\\xamarin.essentials\\1.6.1\\xamarin.essentials.1.6.1.nupkg.sha512",
-    "C:\\Program Files (x86)\\Microsoft\\Xamarin\\NuGet\\xamarin.forms\\5.0.0.2012\\xamarin.forms.5.0.0.2012.nupkg.sha512"
+    "C:\\Users\\diego\\.nuget\\packages\\xamarin.essentials\\1.7.0\\xamarin.essentials.1.7.0.nupkg.sha512",
+    "C:\\Users\\diego\\.nuget\\packages\\xamarin.forms\\5.0.0.2083\\xamarin.forms.5.0.0.2083.nupkg.sha512"
   ],
   "logs": []
 }

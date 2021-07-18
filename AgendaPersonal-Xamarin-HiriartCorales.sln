@@ -9,7 +9,7 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AgendaPersonal-Xamarin-Hiri
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AgendaPersonal-Xamarin-HiriartCorales.iOS", "AgendaPersonal-Xamarin-HiriartCorales.iOS\AgendaPersonal-Xamarin-HiriartCorales.iOS.csproj", "{E1F83BEE-356A-4CAA-A83C-FC8D287A4F46}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AgendaPersonal-Xamarin-HiriartCorales", "AgendaPersonal-Xamarin-HiriartCorales\AgendaPersonal-Xamarin-HiriartCorales.csproj", "{9F745B5D-8CBD-46A2-83EE-815AB3900E95}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "AgendaPersonal-Xamarin-HiriartCorales", "AgendaPersonal-Xamarin-HiriartCorales\AgendaPersonal-Xamarin-HiriartCorales.csproj", "{9F745B5D-8CBD-46A2-83EE-815AB3900E95}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution

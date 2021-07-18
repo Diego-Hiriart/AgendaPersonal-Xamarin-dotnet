@@ -61,3 +61,14 @@ C:\Code UDLA\Programacion 4\AgendaPersonal-Xamarin-dotnet\AgendaPersonal-Xamarin
 C:\Code UDLA\Programacion 4\AgendaPersonal-Xamarin-dotnet\AgendaPersonal-Xamarin-HiriartCorales\AgendaPersonal-Xamarin-HiriartCorales.UWP\obj\x86\Debug\ProjectArchitectures.txt
 C:\Code UDLA\Programacion 4\AgendaPersonal-Xamarin-dotnet\AgendaPersonal-Xamarin-HiriartCorales\AgendaPersonal-Xamarin-HiriartCorales.UWP\obj\x86\Debug\.winmd_cache\$Microsoft.Graphics.Canvas.winmd_636160715180000000.json
 C:\Code UDLA\Programacion 4\AgendaPersonal-Xamarin-dotnet\AgendaPersonal-Xamarin-HiriartCorales\AgendaPersonal-Xamarin-HiriartCorales.UWP\obj\x86\Debug\.winmd_cache\$Microsoft.UI.Xaml.Markup.winmd_637424995200000000.json
+C:\Code UDLA\Programacion 4\AgendaPersonal-Xamarin-dotnet\AgendaPersonal-Xamarin-HiriartCorales.UWP\obj\x86\Debug\App.g.i.cs
+C:\Code UDLA\Programacion 4\AgendaPersonal-Xamarin-dotnet\AgendaPersonal-Xamarin-HiriartCorales.UWP\obj\x86\Debug\App.g.cs
+C:\Code UDLA\Programacion 4\AgendaPersonal-Xamarin-dotnet\AgendaPersonal-Xamarin-HiriartCorales.UWP\obj\x86\Debug\MainPage.g.i.cs
+C:\Code UDLA\Programacion 4\AgendaPersonal-Xamarin-dotnet\AgendaPersonal-Xamarin-HiriartCorales.UWP\obj\x86\Debug\MainPage.g.cs
+C:\Code UDLA\Programacion 4\AgendaPersonal-Xamarin-dotnet\AgendaPersonal-Xamarin-HiriartCorales.UWP\obj\x86\Debug\XamlTypeInfo.g.cs
+C:\Code UDLA\Programacion 4\AgendaPersonal-Xamarin-dotnet\AgendaPersonal-Xamarin-HiriartCorales.UWP\obj\x86\Debug\App.xaml
+C:\Code UDLA\Programacion 4\AgendaPersonal-Xamarin-dotnet\AgendaPersonal-Xamarin-HiriartCorales.UWP\obj\x86\Debug\MainPage.xaml
+C:\Code UDLA\Programacion 4\AgendaPersonal-Xamarin-dotnet\AgendaPersonal-Xamarin-HiriartCorales.UWP\obj\x86\Debug\App.xbf
+C:\Code UDLA\Programacion 4\AgendaPersonal-Xamarin-dotnet\AgendaPersonal-Xamarin-HiriartCorales.UWP\obj\x86\Debug\MainPage.xbf
+C:\Code UDLA\Programacion 4\AgendaPersonal-Xamarin-dotnet\AgendaPersonal-Xamarin-HiriartCorales.UWP\obj\x86\Debug\XamlSaveStateFile.xml
+C:\Code UDLA\Programacion 4\AgendaPersonal-Xamarin-dotnet\AgendaPersonal-Xamarin-HiriartCorales.UWP\obj\x86\Debug\AgendaPersonal-Xamarin-HiriartCorales.UWP.csproj.AssemblyReference.cache

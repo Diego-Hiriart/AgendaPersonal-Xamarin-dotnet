@@ -203,3 +203,4 @@ C:\Code UDLA\Programacion 4\AgendaPersonal-Xamarin-dotnet\AgendaPersonal-Xamarin
 C:\Code UDLA\Programacion 4\AgendaPersonal-Xamarin-dotnet\AgendaPersonal-Xamarin-HiriartCorales\AgendaPersonal-Xamarin-HiriartCorales.Android\obj\Debug\110\android\assets\Xamarin.Google.Android.Material.dll
 C:\Code UDLA\Programacion 4\AgendaPersonal-Xamarin-dotnet\AgendaPersonal-Xamarin-HiriartCorales\AgendaPersonal-Xamarin-HiriartCorales.Android\obj\Debug\110\android\assets\Xamarin.Google.Android.Material.pdb
 C:\Code UDLA\Programacion 4\AgendaPersonal-Xamarin-dotnet\AgendaPersonal-Xamarin-HiriartCorales\AgendaPersonal-Xamarin-HiriartCorales.Android\obj\Debug\110\android\assets\Xamarin.Google.Guava.ListenableFuture.dll
+C:\Code UDLA\Programacion 4\AgendaPersonal-Xamarin-dotnet\AgendaPersonal-Xamarin-HiriartCorales.Android\obj\Debug\110\android\assets\System.Numerics.Vectors.pdb

@@ -56,3 +56,11 @@ C:\Code UDLA\Programacion 4\AgendaPersonal-Xamarin-dotnet\AgendaPersonal-Xamarin
 C:\Code UDLA\Programacion 4\AgendaPersonal-Xamarin-dotnet\AgendaPersonal-Xamarin-HiriartCorales\AgendaPersonal-Xamarin-HiriartCorales.iOS\obj\iPhoneSimulator\Debug\AgendaPersonal-Xamarin-HiriartCorales.iOS.csproj.CopyComplete
 C:\Code UDLA\Programacion 4\AgendaPersonal-Xamarin-dotnet\AgendaPersonal-Xamarin-HiriartCorales\AgendaPersonal-Xamarin-HiriartCorales.iOS\obj\iPhoneSimulator\Debug\AgendaPersonal-Xamarin-HiriartCorales.iOS.exe
 C:\Code UDLA\Programacion 4\AgendaPersonal-Xamarin-dotnet\AgendaPersonal-Xamarin-HiriartCorales\AgendaPersonal-Xamarin-HiriartCorales.iOS\obj\iPhoneSimulator\Debug\AgendaPersonal-Xamarin-HiriartCorales.iOS.pdb
+C:\Code UDLA\Programacion 4\AgendaPersonal-Xamarin-dotnet\AgendaPersonal-Xamarin-HiriartCorales.iOS\obj\iPhoneSimulator\Debug\actool\_PartialAppManifest.items
+C:\Code UDLA\Programacion 4\AgendaPersonal-Xamarin-dotnet\AgendaPersonal-Xamarin-HiriartCorales.iOS\obj\iPhoneSimulator\Debug\actool\_BundleResourceWithLogicalName.items
+C:\Code UDLA\Programacion 4\AgendaPersonal-Xamarin-dotnet\AgendaPersonal-Xamarin-HiriartCorales.iOS\obj\iPhoneSimulator\Debug\ibtool\_BundleResourceWithLogicalName.items
+C:\Code UDLA\Programacion 4\AgendaPersonal-Xamarin-dotnet\AgendaPersonal-Xamarin-HiriartCorales.iOS\obj\iPhoneSimulator\Debug\coremlc\_PartialAppManifest.items
+C:\Code UDLA\Programacion 4\AgendaPersonal-Xamarin-dotnet\AgendaPersonal-Xamarin-HiriartCorales.iOS\obj\iPhoneSimulator\Debug\coremlc\_BundleResourceWithLogicalName.items
+C:\Code UDLA\Programacion 4\AgendaPersonal-Xamarin-dotnet\AgendaPersonal-Xamarin-HiriartCorales.iOS\obj\iPhoneSimulator\Debug\optimized\
+C:\Code UDLA\Programacion 4\AgendaPersonal-Xamarin-dotnet\AgendaPersonal-Xamarin-HiriartCorales.iOS\obj\iPhoneSimulator\Debug\AgendaPersonal-Xamarin-HiriartCorales.iOS.csproj.AssemblyReference.cache
+C:\Code UDLA\Programacion 4\AgendaPersonal-Xamarin-dotnet\AgendaPersonal-Xamarin-HiriartCorales.iOS\obj\iPhoneSimulator\Debug\AgendaPersonal-Xamarin-HiriartCorales.iOS.csproj.CoreCompileInputs.cache
