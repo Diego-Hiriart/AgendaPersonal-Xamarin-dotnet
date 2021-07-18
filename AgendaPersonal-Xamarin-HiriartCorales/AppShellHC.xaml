@@ -1,0 +1,20 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<Shell xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             xmlns:views="clr-namespace:AgendaPersonal_Xamarin_HiriartCorales.Views"
+             x:Class="AgendaPersonal_Xamarin_HiriartCorales.AppShellHC">
+
+    <Shell.FlyoutHeader>
+        <Label Text="Menu" FontSize="30"/>
+    </Shell.FlyoutHeader>
+    
+    <FlyoutItem Title="Eventos" >
+        <ShellContent ContentTemplate="{DataTemplate views:EventosPage}"/>
+    </FlyoutItem>
+    <FlyoutItem Title="Notificaciones">
+        <ShellContent ContentTemplate="{DataTemplate views:NotificacionesPage}"/>
+    </FlyoutItem>
+    <FlyoutItem Title="Memos">
+        <ShellContent ContentTemplate="{DataTemplate views:MemosPage}"/>
+    </FlyoutItem>
+</Shell>
